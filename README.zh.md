@@ -33,6 +33,7 @@ QQ中文交流群:
 3. 小米 Mi6          (sagit)
 4. LG V30            (joan)
 5. 一加5t             (dumpling)
+6. 一加5              (cheeseburger)
 
 ## 依赖
 
@@ -43,6 +44,7 @@ sudo apt update
 sudo apt upgrade
 sudo apt install build-essential uuid-dev iasl git nasm gcc-aarch64-linux-gnu abootimg python3-distutils python3-pil python3-git gettext
 ```
+gcc编译器版本: 10.3.0
 
 ## 构建
 
